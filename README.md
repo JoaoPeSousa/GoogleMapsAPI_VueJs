@@ -1,4 +1,4 @@
-# pb-frontend
+# Google Maps API Project - (YOUR GOOGLE API KEY IS NECESSARY TO RUN IT!!!)
 
 ## Project setup
 ```
